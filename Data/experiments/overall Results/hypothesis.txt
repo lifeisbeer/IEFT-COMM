@@ -1,0 +1,196 @@
+TEST 1:
+1_1_mmProfits.pkl
+Statistics=4489.000, p=0.106
+Same distribution (fail to reject H0)
+1_2_mmProfits.pkl
+Statistics=4610.000, p=0.171
+Same distribution (fail to reject H0)
+1_3_mmProfits.pkl
+Statistics=4672.500, p=0.212
+Same distribution (fail to reject H0)
+1_4_mmProfits.pkl
+Statistics=4387.000, p=0.067
+Same distribution (fail to reject H0)
+2_1_2_mmProfits.pkl
+Statistics=4820.500, p=0.331
+Same distribution (fail to reject H0)
+2_1_3_mmProfits.pkl
+Statistics=4968.000, p=0.469
+Same distribution (fail to reject H0)
+2_1_4_mmProfits.pkl
+Statistics=4466.000, p=0.096
+Same distribution (fail to reject H0)
+2_2_1_mmProfits.pkl
+Statistics=4821.000, p=0.331
+Same distribution (fail to reject H0)
+2_2_3_mmProfits.pkl
+Statistics=4257.000, p=0.035
+Different distribution (reject H0)
+2_2_4_mmProfits.pkl
+Statistics=4664.500, p=0.207
+Same distribution (fail to reject H0)
+2_3_1_mmProfits.pkl
+Statistics=4890.000, p=0.395
+Same distribution (fail to reject H0)
+2_3_2_mmProfits.pkl
+Statistics=3990.000, p=0.007
+Different distribution (reject H0)
+2_3_4_mmProfits.pkl
+Statistics=4187.000, p=0.024
+Different distribution (reject H0)
+2_4_1_mmProfits.pkl
+Statistics=4754.500, p=0.275
+Same distribution (fail to reject H0)
+2_4_2_mmProfits.pkl
+Statistics=4613.500, p=0.173
+Same distribution (fail to reject H0)
+2_4_3_mmProfits.pkl
+Statistics=4628.500, p=0.182
+Same distribution (fail to reject H0)
+3_1_2_1_mmProfits.pkl
+Statistics=4849.500, p=0.357
+Same distribution (fail to reject H0)
+3_1_3_1_mmProfits.pkl
+Statistics=3724.500, p=0.001
+Different distribution (reject H0)
+3_1_4_1_mmProfits.pkl
+Statistics=4259.000, p=0.035
+Different distribution (reject H0)
+3_2_1_2_mmProfits.pkl
+Statistics=4954.500, p=0.456
+Same distribution (fail to reject H0)
+3_2_3_2_mmProfits.pkl
+Statistics=4335.500, p=0.052
+Same distribution (fail to reject H0)
+3_2_4_2_mmProfits.pkl
+Statistics=4466.500, p=0.096
+Same distribution (fail to reject H0)
+3_3_1_3_mmProfits.pkl
+Statistics=4032.500, p=0.009
+Different distribution (reject H0)
+3_3_2_3_mmProfits.pkl
+Statistics=4055.000, p=0.011
+Different distribution (reject H0)
+3_3_4_3_mmProfits.pkl
+Statistics=4737.000, p=0.261
+Same distribution (fail to reject H0)
+3_4_1_4_mmProfits.pkl
+Statistics=4683.500, p=0.220
+Same distribution (fail to reject H0)
+3_4_2_4_mmProfits.pkl
+Statistics=4761.000, p=0.280
+Same distribution (fail to reject H0)
+3_4_3_4_mmProfits.pkl
+Statistics=4844.500, p=0.352
+Same distribution (fail to reject H0)
+5_fixed_1_mmProfits.pkl
+Statistics=4628.500, p=0.182
+Same distribution (fail to reject H0)
+5_fixed_2_mmProfits.pkl
+Statistics=4427.000, p=0.081
+Same distribution (fail to reject H0)
+5_fixed_3_mmProfits.pkl
+Statistics=4483.000, p=0.103
+Same distribution (fail to reject H0)
+5_fixed_4_mmProfits.pkl
+Statistics=4867.500, p=0.374
+Same distribution (fail to reject H0)
+
+
+TEST 2:
+1_1_mmProfits.pkl
+Statistics=81.118, p=0.000
+Different distribution (reject H0)
+1_2_mmProfits.pkl
+Statistics=74.854, p=0.000
+Different distribution (reject H0)
+1_3_mmProfits.pkl
+Statistics=51.563, p=0.000
+Different distribution (reject H0)
+1_4_mmProfits.pkl
+Statistics=71.780, p=0.000
+Different distribution (reject H0)
+2_1_2_mmProfits.pkl
+Statistics=76.220, p=0.000
+Different distribution (reject H0)
+2_1_3_mmProfits.pkl
+Statistics=78.000, p=0.000
+Different distribution (reject H0)
+2_1_4_mmProfits.pkl
+Statistics=19.404, p=0.000
+Different distribution (reject H0)
+2_2_1_mmProfits.pkl
+Statistics=64.526, p=0.000
+Different distribution (reject H0)
+2_2_3_mmProfits.pkl
+Statistics=69.680, p=0.000
+Different distribution (reject H0)
+2_2_4_mmProfits.pkl
+Statistics=7.251, p=0.027
+Different distribution (reject H0)
+2_3_1_mmProfits.pkl
+Statistics=81.298, p=0.000
+Different distribution (reject H0)
+2_3_2_mmProfits.pkl
+Statistics=54.678, p=0.000
+Different distribution (reject H0)
+2_3_4_mmProfits.pkl
+Statistics=20.580, p=0.000
+Different distribution (reject H0)
+2_4_1_mmProfits.pkl
+Statistics=18.952, p=0.000
+Different distribution (reject H0)
+2_4_2_mmProfits.pkl
+Statistics=24.877, p=0.000
+Different distribution (reject H0)
+2_4_3_mmProfits.pkl
+Statistics=32.720, p=0.000
+Different distribution (reject H0)
+3_1_2_1_mmProfits.pkl
+Statistics=62.922, p=0.000
+Different distribution (reject H0)
+3_1_3_1_mmProfits.pkl
+Statistics=69.238, p=0.000
+Different distribution (reject H0)
+3_1_4_1_mmProfits.pkl
+Statistics=17.088, p=0.000
+Different distribution (reject H0)
+3_2_1_2_mmProfits.pkl
+Statistics=77.659, p=0.000
+Different distribution (reject H0)
+3_2_3_2_mmProfits.pkl
+Statistics=59.794, p=0.000
+Different distribution (reject H0)
+3_2_4_2_mmProfits.pkl
+Statistics=16.095, p=0.000
+Different distribution (reject H0)
+3_3_1_3_mmProfits.pkl
+Statistics=82.260, p=0.000
+Different distribution (reject H0)
+3_3_2_3_mmProfits.pkl
+Statistics=53.111, p=0.000
+Different distribution (reject H0)
+3_3_4_3_mmProfits.pkl
+Statistics=25.620, p=0.000
+Different distribution (reject H0)
+3_4_1_4_mmProfits.pkl
+Statistics=23.674, p=0.000
+Different distribution (reject H0)
+3_4_2_4_mmProfits.pkl
+Statistics=14.460, p=0.001
+Different distribution (reject H0)
+3_4_3_4_mmProfits.pkl
+Statistics=16.824, p=0.000
+Different distribution (reject H0)
+5_fixed_1_mmProfits.pkl
+Statistics=13.380, p=0.001
+Different distribution (reject H0)
+5_fixed_2_mmProfits.pkl
+Statistics=5.180, p=0.075
+Same distribution (fail to reject H0)
+5_fixed_3_mmProfits.pkl
+Statistics=7.440, p=0.024
+Different distribution (reject H0)
+5_fixed_4_mmProfits.pkl
+Statistics=7.280, p=0.026
+Different distribution (reject H0)

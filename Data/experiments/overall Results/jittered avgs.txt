@@ -1,0 +1,30 @@
+M1 Average:  688.44
+M2 Average:  618.97
+M3 Average:  632.11
+M4 Average:  653.13
+
+M12 Average:  642.71
+M13 Average:  645.74
+M14 Average:  787.74
+M21 Average:  660.23
+M23 Average:  632.35
+M24 Average:  697.61
+M31 Average:  654.22
+M32 Average:  642.98
+M34 Average:  826.98
+M41 Average:  455.56
+M42 Average:  424.55
+M43 Average:  446.02
+
+M121 Average:  664.18
+M131 Average:  681.69
+M141 Average:  638.87
+M212 Average:  648.04
+M232 Average:  631.85
+M242 Average:  561.93
+M313 Average:  663.99
+M323 Average:  636.54
+M343 Average:  600.8
+M414 Average:  551.8
+M424 Average:  517.34
+M434 Average:  559.02

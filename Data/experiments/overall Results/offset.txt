@@ -1,0 +1,17 @@
+fixed:
+M1 Average:  827.99
+M2 Average:  763.86
+M3 Average:  801.92
+M4 Average:  716.74
+
+jittered
+M1 Average:  847.54 
+M2 Average:  778.93 
+M3 Average:  820.13 
+M4 Average:  719.87 
+
+random
+M1 Average:  895.85 
+M2 Average:  794.85 
+M3 Average:  855.01 
+M4 Average:  762.73 
